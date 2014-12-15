@@ -85,6 +85,16 @@ h5 {
 	font-style: italic; 
 }
 
+.span-2 > a {
+	color: #6d2c30;
+	text-decoration: none;
+	transition: color 0.5s;
+}
+
+.span-2 > a:hover {
+	color: #000000;
+}
+
 .span-3 {
 	color: #535353;
 	font-size: 1rem;
