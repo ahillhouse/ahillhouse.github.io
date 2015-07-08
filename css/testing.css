@@ -1,0 +1,50 @@
+nav {
+    background-color: #202020;
+    color: #ffffff;
+}
+
+header {
+    font-family: 'Playfair Display', serif;
+    font-size: 84px;
+    font-weight: 400;
+    color: #EDC951;
+    text-transform: lowercase;
+    font-style: italic;
+}
+
+footer {
+    background-color: #EDC951;
+    font-family: 'Playfair Display', serif;
+    font-size: 14px;
+    font-weight: 400;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+.section-name {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px;
+    color: #636363;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+.section-description {
+    border-left: 1px solid #d3d3d3;
+    font-family: 'PT Serif', serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: #202020;
+}
+
+.section-description b {
+    font-weight: 700;
+}
+
+a {
+    color: #636363;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #EDC951;
+}

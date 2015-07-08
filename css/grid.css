@@ -96,6 +96,11 @@
 	width: 8.333333%;
 }
 
+/* For when you want containers different sizes */
+.column-875p {
+	width: 87.5%;
+}
+
 [class*="column-"] {
 	padding: 10px;
 	float: left;
