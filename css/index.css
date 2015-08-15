@@ -49,6 +49,10 @@ a:hover {
     color: #EDC951;
 }
 
+#contact-links {
+    font-size: 3.5rem;
+}
+
 /* For when you want containers different sizes */
 .column-875p {
     width: 87.5%;
